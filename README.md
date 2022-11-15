@@ -14,4 +14,6 @@ Simple courses portal made with NextJS and NextAuth.
 ## - Pictures:
 ![image](https://user-images.githubusercontent.com/39201633/202040843-c956d5bb-e4ec-49f7-85ba-24d2f8d51361.png)
 ![image](https://user-images.githubusercontent.com/39201633/202040906-1835fc09-8bb1-4f45-a61c-de4214d74163.png)
-![image](https://user-images.githubusercontent.com/39201633/196757762-e608fc78-4ece-42bf-8971-fbb6a2cf334b.png)
+![image](https://user-images.githubusercontent.com/39201633/202041756-72cafb5f-e3b6-479a-bf84-94730e32a129.png)
+![image](https://user-images.githubusercontent.com/39201633/202041655-6ea1b395-a730-4be4-a568-22892fc8e4ec.png)
+![image](https://user-images.githubusercontent.com/39201633/202041686-69bb09fd-4b3f-4cbc-95ac-690f0fa53a2d.png)
